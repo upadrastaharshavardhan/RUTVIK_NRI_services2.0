@@ -12,7 +12,8 @@ function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <Flower2 className="h-8 w-8 text-orange-600" />
+              <div className="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mb-4">
+          <img src="https://stackblitz.com/storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzAwR0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad5dfaa420a2ac59f9e85d05857c4c8a980e2f91/Screenshot%202024-09-08%20191118.png" alt="Rutvik Logo" className="w-15 h-10" />
               <span className="ml-2 text-xl font-bold text-gray-800">Rutvik NRI</span>
             </Link>
           </div>
