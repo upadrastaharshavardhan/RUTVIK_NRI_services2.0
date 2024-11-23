@@ -11,11 +11,11 @@ function Footer() {
             <div className="space-y-3">
               <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-2" />
-                <span>support@rutviknri.com</span>
+                <span>contactrutvikservices@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 mr-2" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7993924499</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2" />
@@ -27,10 +27,10 @@ function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="hover:text-orange-400">About Us</a></li>
-              <li><a href="#" className="hover:text-orange-400">Services</a></li>
+              <li><a href="https://therutvik.netlify.app" className="hover:text-orange-400">About Us</a></li>
+              <li><a href="https://upadrastaharshavardhan.github.io/rutvikservices/" className="hover:text-orange-400">Services</a></li>
               <li><a href="#" className="hover:text-orange-400">FAQs</a></li>
-              <li><a href="#" className="hover:text-orange-400">Privacy Policy</a></li>
+              <li><a href="https://sites.google.com/view/rutvikprivacypolicy" className="hover:text-orange-400">Privacy Policy</a></li>
             </ul>
           </div>
 
